@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify
 app          = Flask(__name__)
 app.id_count = 1
 app.users    ={}
-app.teets    =[]
+app.tweets    =[]
 
 @app.route('/ping', methods=['GET'])
 def ping():
