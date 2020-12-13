@@ -3,6 +3,8 @@
 ## Description
 <!--- Describe your changes in detail -->
 [add] POST /sign-up
+[add] POST /tweet
+[add] POST /follow
 
 ## Related Issue
 <!--- This project only accepts pull requests related to open issues -->
